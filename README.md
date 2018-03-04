@@ -13,7 +13,7 @@ Install the latest version with Composer.
 
 ### Requirements
 
-- Monolog works with PHP 5.3 or above, and is also tested to work with HHVM.
+Xchg Logger works with PHP 5.3 or above.
 
 ### Author
 
@@ -21,7 +21,7 @@ Tom Garda - <tgarda@hotmail.com>
 
 ### License
 
-Monolog is licensed under the MIT License - see the `LICENSE` file for details
+Xchg Logger is licensed under the MIT License - see the `LICENSE` file for details.
 
 ### Acknowledgements
 

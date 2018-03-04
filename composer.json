@@ -3,7 +3,7 @@
     "description": "Xchg debug logger based on Monolog",
     "type": "library",
     "require": {
-		"php": ">=5.3.0",,
+		"php": ">=5.3.0",
         "monolog/monolog": "1.23.0"
     },
     "license": "MIT",
